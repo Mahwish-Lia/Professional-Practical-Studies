@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Professional Practical Studies Portfolio – Template</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      margin: 0;
+      background: #f7f6f2;
+      color: #26231d;
+    }
+    main {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 3rem;
+    }
+    header {
+      padding: 1.5rem 1.5rem 0;
+      max-width: 960px;
+      margin: 0 auto;
+    }
+    h1 { font-size: 2.3rem; margin-bottom: .5rem; }
+    h2 { font-size: 1.6rem; margin-top: 2rem; margin-bottom: .7rem; }
+    h3 { font-size: 1.2rem; margin-top: 1.4rem; margin-bottom: .4rem; }
+    p { line-height: 1.7; max-width: 75ch; }
+    .eyebrow {
+      text-transform: uppercase;
+      letter-spacing: .09em;
+      font-size: .7rem;
+      color: #666;
+      margin-bottom: .35rem;
+    }
+    .card {
+      background: #fff;
+      border-radius: .75rem;
+      padding: 1.4rem 1.6rem;
+      margin-top: 1.3rem;
+      box-shadow: 0 10px 30px rgba(0,0,0,.04);
+      border: 1px solid #e1dfda;
+    }
+    ul { padding-left: 1.1rem; }
+    li { margin-bottom: .25rem; }
+    .hint {
+      font-size: .85rem;
+      color: #555;
+      margin-top: .4rem;
+      font-style: italic;
+    }
+    @media (max-width: 768px) {
+      header, main { padding-inline: 1rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="eyebrow">Professional Practical Studies · Template</div>
+    <!-- STUDENT: Replace [Your Name] with your full name -->
+    <h1>[Your Name] – Professional Practical Studies Portfolio</h1>
+    <!-- STUDENT: Write 2–3 sentences about yourself (qualification, field, current study or work context) -->
+    <p>[Short introduction: Who are you? What are you studying or working on?]</p>
+  </header>
+
+  <main>
+    <!-- CV SECTION -->
+    <section>
+      <div class="eyebrow">CV</div>
+      <h2>Curriculum vitae (short version)</h2>
+      <div class="card">
+        <h3>Personal and educational background</h3>
+        <ul>
+          <!-- STUDENT: Replace each item with your own information -->
+          <li>[Highest qualification (e.g. BA in ... / ITVET master student)]</li>
+          <li>[Institution / department]</li>
+          <li>[Relevant work experience or internships]</li>
+          <li>[Main professional interests (e.g. TVET, VET 6.0, AI in education)]</li>
+        </ul>
+        <p class="hint">
+          Hint: Use short bullet points. This is a quick CV overview, not a full document.
+        </p>
+      </div>
+    </section>
+
+    <!-- ASSIGNED TASK AREA SECTION -->
+    <section>
+      <div class="eyebrow">Assigned task area</div>
+      <h2>Assigned task area</h2>
+      <div class="card">
+        <h3>Task description</h3>
+        <!-- STUDENT: Describe one main task area from your professional practical studies (course, internship, project). -->
+        <p>[Describe the assigned task: context, objectives, and your role.]</p>
+
+        <h3>Activities and responsibilities</h3>
+        <ul>
+          <!-- STUDENT: List 3–5 concrete activities you carried out in this task area. -->
+          <li>[Activity 1]</li>
+          <li>[Activity 2]</li>
+          <li>[Activity 3]</li>
+          <li>[Activity 4]</li>
+        </ul>
+
+        <p class="hint">
+          Hint: Focus on what you actually did (actions), not just job titles.
+        </p>
+      </div>
+    </section>
+
+    <!-- PROBLEM SOLVING SECTION -->
+    <section>
+      <div class="eyebrow">Problem solving</div>
+      <h2>Problem solving in professional practice</h2>
+      <div class="card">
+        <h3>Situation</h3>
+        <!-- STUDENT: Describe one concrete problem you faced in your task area (e.g. organisational, pedagogical, technical). -->
+        <p>[Describe the problem or challenge: what happened, who was involved, why it was difficult.]</p>
+
+        <h3>Approach and strategies</h3>
+        <!-- STUDENT: Explain how you approached the problem (steps, strategies, communication). -->
+        <p>[Explain how you analysed the problem and what strategies you used to solve or reduce it.]</p>
+
+        <h3>Outcome and reflection</h3>
+        <!-- STUDENT: Reflect briefly on the result and what you learned. -->
+        <p>[Describe the outcome: what changed, what worked, what did not work, and what you learned for future practice.]</p>
+
+        <p class="hint">
+          Hint: Use this section to show your problem-solving process, not only the final result.
+        </p>
+      </div>
+    </section>
+
+    <!-- WORK PLANNING AND ORGANIZATION SECTION -->
+    <section>
+      <div class="eyebrow">Work planning and organization</div>
+      <h2>Work planning and organization</h2>
+      <div class="card">
+        <h3>Planning methods</h3>
+        <!-- STUDENT: Describe how you planned your work (e.g. timetable, milestones, Kanban, to-do lists). -->
+        <p>[Describe your planning methods: how you structured tasks, set priorities, and managed time.]</p>
+
+        <h3>Coordination and collaboration</h3>
+        <!-- STUDENT: Describe how you coordinated with others (teachers, colleagues, students, partners). -->
+        <p>[Explain how you communicated and coordinated with others to keep work organised.]</p>
+
+        <h3>Self-organization and reflection</h3>
+        <!-- STUDENT: Reflect on your strengths and challenges in work planning and self-organisation. -->
+        <p>[Reflect on what worked well in your planning, what was challenging, and how you want to improve.]</p>
+
+        <p class="hint">
+          Hint: Connect this section to self-regulated learning if relevant (goal-setting, monitoring, adjusting).
+        </p>
+      </div>
+    </section>
+
+    <!-- USE OF DIGITAL TOOLS SECTION -->
+    <section>
+      <div class="eyebrow">Use of digital tools</div>
+      <h2>Use of digital tools</h2>
+      <div class="card">
+        <h3>Tools used</h3>
+        <ul>
+          <!-- STUDENT: List the main digital tools you used (e.g. Moodle, LiaScript, Miro, GitHub, AI tools). -->
+          <li>[Tool 1 – purpose]</li>
+          <li>[Tool 2 – purpose]</li>
+          <li>[Tool 3 – purpose]</li>
+        </ul>
+
+        <h3>Why these tools?</h3>
+        <!-- STUDENT: Explain why you chose these tools (benefits, limitations, context). -->
+        <p>[Explain how the tools supported your work, learning, collaboration, or documentation.]</p>
+
+        <h3>Reflection on digital competence</h3>
+        <!-- STUDENT: Reflect briefly on your digital skills and what you want to develop further. -->
+        <p>[Reflect on your digital competences: what you are confident about, what you want to learn next.]</p>
+
+        <p class="hint">
+          Hint: You can connect this to TVET/ITVET, VET 6.0, AI in TVET, or other frameworks if relevant.
+        </p>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
