@@ -1,0 +1,14 @@
+{
+  "background_color": "#ffffff",
+  "description": "How is the boundary between academic study and professional TVET practice crossed? An evidence-based portfolio built on a competence matrix across six task areas.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "mahwish-lia.github",
+  "orientation": "portrait",
+  "scope": "/Professional-Practical-Studies/",
+  "short_name": "mahwish-lia.github",
+  "start_url": "https://mahwish-lia.github.io/Professional-Practical-Studies/",
+  "theme_color": "#ffffff",
+  "id": "PPS Portfolio",
+  "lang": "en"
+}
